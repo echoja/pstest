@@ -1,0 +1,37 @@
+include:
+
+	#include <stdio.h>
+	#include <stdarg.h>
+	#include <string.h>
+	#include <stdlib.h>
+
+ex00:
+
+ex00-expected:
+
+ex01:
+
+ex01-expected:
+
+
+ex02:
+
+ex02-expected:
+
+ex03:
+
+
+
+ex03-expected:
+
+ex04:
+
+ex04-expected:
+
+ex05:
+
+
+ex05-expected:
+
+
+end:
